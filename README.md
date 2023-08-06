@@ -1,4 +1,4 @@
-# Organ-Donation-Database-Management-System
+# OrgEase
 
 Problem Statement and Solution :-
 
